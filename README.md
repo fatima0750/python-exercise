@@ -1,2 +1,1 @@
-# python-exercise
-My personal Python exercise and learning journey.
+a simple calculator to learn Python.
